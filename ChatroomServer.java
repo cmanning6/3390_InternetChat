@@ -51,10 +51,10 @@ class  SharedOuts {
 
 
     public SharedOuts() {
-        clients = new ArrayList();
+        clients = new ArrayList<>();
         reps = new ArrayList<>();
-        uMap = new HashMap();
-        rMap = new HashMap();
+        uMap = new HashMap<>();
+        rMap = new HashMap<>();
     }
     public void addClient( Integer userID, ObjectOutputStream out ) {
         clients.add( userID );
