@@ -1,4 +1,4 @@
-# 3390_InternetChat
+# Java_ClientChat
 Contains a Server to host a chat between different users
 
 
